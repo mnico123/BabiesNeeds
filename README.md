@@ -25,6 +25,9 @@ The first time you open the app, you'll be prompted to create a profile. To add 
 3.  Give this code to your partner or caregiver.
 4.  They can then go to **Menu > My Kids**, tap **+**, and choose **"Join with Code"** to get synced up.
 
+## Support
+Support can be reached at support@babiesneeds.eu
+
 ## Tech Stack
 
 *   **UI:** SwiftUI
